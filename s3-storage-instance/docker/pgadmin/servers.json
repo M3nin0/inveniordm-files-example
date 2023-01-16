@@ -1,0 +1,14 @@
+{
+    "Servers": {
+      "1": {
+        "Name": "s3-storage-instance_db",
+        "Group": "Servers",
+        "Host": "s3-storage-instance_db_1",
+        "Port": 5432,
+        "MaintenanceDB": "postgres",
+        "Username": "s3-storage-instance",
+        "SSLMode": "prefer"
+      }
+    }
+  }
+  
